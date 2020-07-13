@@ -12,6 +12,8 @@
 
 * background 폴더에 원하는 배경 넣기
 
+* 이미지 합성을 위한 txt 파일이 필요
+
 ## 실행
 ```
 python Image_generate.py
